@@ -1,4 +1,4 @@
-# WikiTok
+# WikTok
 
 A TikTok-style interface for exploring random Wikipedia articles in multiple languages.
 
